@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/button_start"
+        android:layout_width="278dp"
+        android:layout_height="132dp"
+        android:layout_centerInParent="true"
+        android:layout_weight="1"
+        android:text="点击立即体验AR找一找小游戏" />
+</RelativeLayout>

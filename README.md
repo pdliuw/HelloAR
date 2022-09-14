@@ -1,5 +1,5 @@
 # HelloAR
-hello AR
+hello AR [下载app立即体验](https://github.com/pdliuw/HelloAR/raw/master/document/app-debug.apk)
 
 
 1、由于个人对AR技术充满兴趣，基于兴趣爱好维护着本项目仓库；

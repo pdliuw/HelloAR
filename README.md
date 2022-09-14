@@ -1,6 +1,10 @@
 # HelloAR
 hello AR [下载app立即体验](https://github.com/pdliuw/HelloAR/raw/master/document/app-debug.apk)
 
+扫码下载app立即体验AR
+
+![扫码下载](document/qrcode_github.com.png)
+
 
 1、由于个人对AR技术充满兴趣，基于兴趣爱好维护着本项目仓库；
 
